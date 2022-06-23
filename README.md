@@ -25,7 +25,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Linkedin
 
-<a href="[https://linkedin.com/in/mauroantunes](https://www.linkedin.com/in/mauro-antunes-6b15b5237/)" target="_blank">
+<a href="https://www.linkedin.com/in/mauro-reis-6b15b5237/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mauroantunes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
