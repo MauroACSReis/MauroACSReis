@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with freelances and open for hire!
 
-- 👨‍💻 All of my projects are available at (https://mauroacsreis.github.io/Personal-Website/)
+- 👨‍💻 My portfolio is available at (https://mauroacsreis.github.io/Personal-Website/)
 
 - ▶️ I regularly post videos on [youtube.com/libertyways](https://youtube.com/libertyways)
 
