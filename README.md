@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">
-<h1 align="left">Hi, I'm Mauro Reis</h1>
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2px">
+<h1 align="left">I'm Mauro Reis</h1>
 
 - 🔥 Web Developer & Content Creator
 
