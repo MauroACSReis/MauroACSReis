@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at (https://waysoftech.netlify.app/)
 
-- ▶️ I regularly post videos on [youtube.com/libertyways](https://youtube.com/libertyways)
+- ▶️ I regularly post videos on (https://youtube.com/libertyways)
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
