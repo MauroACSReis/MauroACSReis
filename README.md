@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working with freelances and open for hire!
 
-- 👨‍💻 My portfolio is available at (https://waysoftech.netlify.app/)
+- 👨‍💻 My portfolio is available at https://waysoftech.netlify.app/
 
-- ▶️ I regularly post videos on (https://youtube.com/libertyways)
+- ▶️ I regularly post videos on https://www.youtube.com/channel/UCvMMltZWkyX_CGqiyb-uHQg
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
