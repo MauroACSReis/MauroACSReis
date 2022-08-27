@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
-- Preferred Stack: 
+## Preferred Stack: 
 
 UI/UX: Figma.
 
