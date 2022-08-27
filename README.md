@@ -17,7 +17,7 @@ UI/UX: Figma.
 
 Front-End: React w/ Next, Redux, Jest, UIkits.
 
-Back-End: Node w/ Prisma, MongoDB, Nest.
+Back-End: Node w/ MongoDB, Prisma, Nest.
 
 Web3: Remix, Hardhat, Ethers, Moralis.
 
