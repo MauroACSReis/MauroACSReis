@@ -1,15 +1,22 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 <h1 align="left">I'm Mauro Reis</h1>
 
-- 🔥 Web Developer & Content Creator
+- 🔥 Full-Stack Engineer & Content Creator
 
-- 🔭 I’m currently working with freelances and open for hire!
+- 🔭 I’m currently working with freelancing and open for hire!
 
-- 👨‍💻 My portfolio is available at https://waysoftech.netlify.app/
+- 💻 My portfolio is available at https://waysoftech.netlify.app/
 
 - ▶️ I regularly post videos on https://bit.ly/3J16gCP
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
+
+- Preferred Stack: 
+UI/UX: Figma.
+Front-End: React w/ Next, Redux, UIkits.
+Back-End: Node w/ Prisma, MongoDB, Nest, Jest.
+Web3: Remix, Hardhat, Ethers, Moralis.
+Languages: Typescript, SASS, Solidity.
 
 ## 👨🏽‍🦲 &nbsp;Linkedin
 
