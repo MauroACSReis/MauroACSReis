@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
-## Preferred Stack: 
+## Preferred Stack
 
 UI/UX: Figma.
 
@@ -23,7 +23,7 @@ Web3: Remix, Hardhat, Ethers, Moralis.
 
 Languages: Typescript, Solidity, SQL, SASS, CSS, HTML.
 
-## 👨🏽‍🦲 &nbsp;Linkedin
+## &nbsp;Linkedin
 
 <a href="https://www.linkedin.com/in/mauro-reis-6b15b5237/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mauroreis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
