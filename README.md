@@ -12,10 +12,15 @@
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
 - Preferred Stack: 
+
 UI/UX: Figma.
+
 Front-End: React w/ Next, Redux, UIkits.
+
 Back-End: Node w/ Prisma, MongoDB, Nest, Jest.
+
 Web3: Remix, Hardhat, Ethers, Moralis.
+
 Languages: Typescript, SASS, Solidity.
 
 ## 👨🏽‍🦲 &nbsp;Linkedin
