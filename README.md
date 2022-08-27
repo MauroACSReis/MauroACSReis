@@ -30,9 +30,9 @@ Languages: Typescript, Solidity, SQL, SASS, CSS, HTML.
 </a>
 
 <a href="https://www.youtube.com/channel/UCvMMltZWkyX_CGqiyb-uHQg" target="_blank">
-  <img height="20px" width="50px" align="center" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" alt="youtube"/>
+  <img height="50px" width="50px" align="center" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" alt="youtube"/>
 </a>
 
 <a href="https://www.instagram.com/mauroasreis/" target="_blank">
-  <img height="20px" width="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram"/>
+  <img height="50px" width="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram"/>
 </a>
