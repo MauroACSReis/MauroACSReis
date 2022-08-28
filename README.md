@@ -34,5 +34,5 @@ Languages: Typescript, Solidity, Javascript, SQL, SASS, CSS, HTML.
 </a>
 
 <a href="https://www.instagram.com/mauroasreis/" target="_blank">
-  <img height="50px" width="70px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram"/>
+  <img height="40px" width="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="instagram"/>
 </a>
