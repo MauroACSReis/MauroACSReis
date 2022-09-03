@@ -15,7 +15,7 @@
 
 UI/UX: Figma.
 
-Front-End: React w/ Next, Redux, Jest, 3 UIkits.
+Front-End: React w/ Next, Redux, Jest, UIkits.
 
 Back-End: Node w/ MongoDB, Prisma, Nest.
 
