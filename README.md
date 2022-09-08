@@ -23,6 +23,8 @@ Web3: Remix, Hardhat, Ethers, Moralis.
 
 Languages: Typescript, Javascript, SQL, SASS, CSS, HTML, Solidity.
 
+portuguese, english and spanish speaker.
+
 ## &nbsp;Social
 
 <a href="https://www.linkedin.com/in/mauro-reis-6b15b5237/" target="_blank">
