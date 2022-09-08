@@ -23,7 +23,7 @@ Web3: Remix, Hardhat, Ethers, Moralis.
 
 Languages: Typescript, Javascript, SQL, SASS, CSS, HTML, Solidity.
 
-portuguese, english and spanish speaker.
+Portuguese, English and Spanish speaker.
 
 ## &nbsp;Social
 
