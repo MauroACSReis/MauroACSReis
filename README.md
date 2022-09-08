@@ -21,7 +21,7 @@ Back-End: Node w/ MongoDB, Prisma, Nest.
 
 Web3: Remix, Hardhat, Ethers, Moralis.
 
-Languages: Typescript, Solidity, Javascript, SQL, SASS, CSS, HTML.
+Languages: Typescript, Javascript, SQL, SASS, CSS, HTML, Solidity.
 
 ## &nbsp;Social
 
