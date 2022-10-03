@@ -15,13 +15,13 @@
 
 UI/UX: Figma.
 
-Front-End: React w/ Next, Redux, Jest, UIkits.
+Front-End: React w/ Next, Redux, Jest, 3UIkits.
 
 Back-End: Node w/ MongoDB, Prisma, Nest.
 
 Web3: Remix, Hardhat, Ethers, Moralis.
 
-Languages: Typescript, Javascript, SQL, SASS, CSS, HTML, Solidity.
+Preferred Programming Languages: Typescript, SQL, SASS, Solidity.
 
 Portuguese, English and Spanish speaker.
 
