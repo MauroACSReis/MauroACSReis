@@ -28,7 +28,3 @@ Portuguese, English and Spanish speaker.
 <a href="https://www.linkedin.com/in/mauro-reis-6b15b5237/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mauroreis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-<a href="https://www.youtube.com/channel/UCvMMltZWkyX_CGqiyb-uHQg" target="_blank">
-  <img height="50px" width="70px" align="center" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" alt="youtube"/>
-</a>
