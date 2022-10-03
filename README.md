@@ -1,13 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 <h1 align="left">I'm Mauro Reis</h1>
 
-- 🔥 Full-Stack Engineer & Content Creator
+- 🔥 Full-Stack Engineer
 
 - 🔭 I’m currently working with freelancing and open for hire!
 
 - 💻 My portfolio is available at https://waysoftech.netlify.app/
-
-- ▶️ I regularly post videos on https://bit.ly/3J16gCP
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
