@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
-- Portuguese, English and Spanish speaker.
+- 🇧🇷 🇺🇸 🇪🇦 Portuguese, English and Spanish speaker.
 
 ## Personal Preferred Stack 🎓
 
