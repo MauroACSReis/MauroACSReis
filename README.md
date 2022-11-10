@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
+- Portuguese, English and Spanish speaker.
+
 ## Personal Preferred Stack 🎓
 
 UI/UX: Figma.
@@ -20,8 +22,6 @@ Back-End: Node w/ MongoDB, Prisma, Nest.
 Web3: Remix, Hardhat, Ethers, Moralis.
 
 Preferred Programming Languages: Typescript, SQL, SASS, Solidity.
-
-Portuguese, English and Spanish speaker.
 
 ## &nbsp;Social
 
