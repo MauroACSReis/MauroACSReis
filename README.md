@@ -13,13 +13,15 @@
 
 ## Personal Preferred Stack 🎓
 
+MERN Stack is what i use the most for web development.
+
 UI/UX: Figma.
 
-Front-End: React w/ Next, Redux, Jest, UIkits.
+Front-End: React with Next and Front-End libraries.
 
-Back-End: Node w/ MongoDB, Prisma, Nest.
+Back-End: Node w/ MongoDB and Express.
 
-Web3: Remix, Hardhat, Ethers, Moralis.
+Web3: Remix, Hardhat and Ethers.
 
 Programming Languages: Typescript, SQL, SASS, Solidity.
 
