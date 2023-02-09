@@ -3,7 +3,7 @@
 
 - 🔥 Full-Stack Engineer
 
-- 🔭 I’m currently working with freelancing and open for hire!
+- 🔭 I’m currently open for hire!
 
 - 💻 My portfolio is available at https://waysoftech.netlify.app/
 
