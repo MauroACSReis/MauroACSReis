@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently open for hire!
 
-- 💻 My portfolio is available at https://waysoftech.netlify.app/
+- 💻 My portfolio is available at https://waysoftech.vercel.app/
 
 - ⚡ Fun fact: **Defi Degenerate 😜**
 
