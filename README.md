@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 <h1 align="left">I'm Mauro Reis</h1>
 
-- 🔥 Full-Stack Ethereum Engineer
+- 🔥 Full-Stack Ethereum Developer
 
 - 🔭 I’m currently open for hire!
 
@@ -14,8 +14,6 @@
 ## Personal Preferred Stack 🎓
 
 MERN Stack is what i use the most for web development.
-
-UI/UX: Figma.
 
 Front-End: React with Next and Front-End libraries.
 
